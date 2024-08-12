@@ -17,8 +17,11 @@ _Entre 1 underscore, Texte en italique_
     - [Avec trois dièses, Titre niveau 3](#avec-trois-dièses-titre-niveau-3)
 - [Sommaire](#sommaire)
 - [Base de données](#base-de-données)
+  - [Comment on push?](#comment-on-push)
 
 # Base de données
 
 ![mcd](assets/exemple-MCD.jpg)
 
+## Comment on push?
+```git add . git commit -m "commit" git branch -m main et git push -u origin main```
