@@ -17,13 +17,22 @@ _Entre 1 underscore, Texte en italique_
     - [Avec trois dièses, Titre niveau 3](#avec-trois-dièses-titre-niveau-3)
 - [Sommaire](#sommaire)
 - [Base de données](#base-de-données)
-  - [Comment on push?](#comment-on-push)
+  - [Push sur Git](#push-sur-git)
 
 # Base de données
 
 ![mcd](assets/exemple-MCD.jpg)
 
-## Comment on push?
-```git add .```
-```git commit -m "readme"```
-```git push -u origin main```
+## Push sur Git 
+```
+git add .
+```
+
+```
+git commit -m "readme"
+```
+
+```
+git push -u origin main
+```
+
