@@ -24,4 +24,6 @@ _Entre 1 underscore, Texte en italique_
 ![mcd](assets/exemple-MCD.jpg)
 
 ## Comment on push?
-```git add . git commit -m "commit" git branch -m main et git push -u origin main```
+```git add .```
+```git commit -m "readme"```
+```git push -u origin main```
